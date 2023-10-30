@@ -1,1 +1,1 @@
-my alx first queens interview project
+my first alx nqueens interview project
